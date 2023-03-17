@@ -47,6 +47,7 @@ input{
     background-repeat: no-repeat;
     color: #fffafa;
     background-color: transparent;
+    font-size:17px;
     font-family: 'Josefin Sans', sans-serif;
 }::placeholder{
     color: whitesmoke;
